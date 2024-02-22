@@ -17,4 +17,5 @@ try:
 except:
     pass
 
-st.subheader("
+st.subheader("texto a audio")
+st.write("La marihuana también llamada weed, herb, pot, grass, bud, ganja, Mary Jane y una gran cantidad de otros términos callejeros")
