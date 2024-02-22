@@ -10,3 +10,11 @@ st.title("Weed")
 image = Image.open("weed.png")
 
 st.image(image, width=200)
+
+
+try:
+    os.mkdir("temp")
+except:
+    pass
+
+st.subheader("
